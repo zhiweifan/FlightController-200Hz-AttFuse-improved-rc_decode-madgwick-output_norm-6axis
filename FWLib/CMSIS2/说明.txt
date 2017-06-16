@@ -1,0 +1,1 @@
+如果\ARM\Pack\ARM\CMSIS目录下没有相应版本的CMSIS则在工程中包含此目录

@@ -1,0 +1,8 @@
+
+#ifndef MATRIXINV_H
+#define MATRIXINV_H
+
+float InverseMatrix(float **m, unsigned char size);
+
+#endif
+
